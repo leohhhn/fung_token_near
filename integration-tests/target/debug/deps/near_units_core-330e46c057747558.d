@@ -1,0 +1,11 @@
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/near_units_core-330e46c057747558.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/libnear_units_core-330e46c057747558.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/near_units_core-330e46c057747558.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs:

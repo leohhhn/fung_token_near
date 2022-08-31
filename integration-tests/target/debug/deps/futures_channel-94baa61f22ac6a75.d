@@ -1,0 +1,11 @@
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/futures_channel-94baa61f22ac6a75.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lock.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/queue.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/oneshot.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/libfutures_channel-94baa61f22ac6a75.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lock.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/queue.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/oneshot.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/futures_channel-94baa61f22ac6a75.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lock.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/queue.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/oneshot.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/lock.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/mod.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/mpsc/queue.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.24/src/oneshot.rs:

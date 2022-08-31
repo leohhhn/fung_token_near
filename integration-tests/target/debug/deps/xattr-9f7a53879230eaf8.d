@@ -1,0 +1,12 @@
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/xattr-9f7a53879230eaf8.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/libxattr-9f7a53879230eaf8.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/apple/Desktop/MVP Workshop/NEAR/erc20A/integration-tests/target/debug/deps/xattr-9f7a53879230eaf8.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs:
